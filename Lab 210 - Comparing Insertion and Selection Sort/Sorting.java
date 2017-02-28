@@ -1,9 +1,6 @@
 
 /**
- * Implements insertion sort and selection sort for arrays and arraylists
- * Compares efficiency of both routines
- * 
- * @Kara Herson
+ *
  * @2/13/2017
  */
 import java.util.ArrayList;
